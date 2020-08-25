@@ -9888,3 +9888,20 @@ textarea.form-control {
               left: 0px;
               background-color: rgba(211,211,211,0.20);
           }
+
+          .contact-section .text span {
+            font-weight: 600;
+            font-size: 17px;
+            color: #000000;
+            /*text-transform: uppercase;*/
+          }
+
+          .contact-section .text p {
+            font-weight: 600;
+            font-size: 15px;
+            color: rgba(0, 0, 0, 0.5); }
+
+            .contact-section .text a {
+              font-weight: 600;
+              font-size: 15px;
+              color: rgba(0, 0, 0, 0.5); }
