@@ -9810,7 +9810,7 @@ textarea.form-control {
                 padding: 6em 0; } }*/
 
                 @media (max-width: 1199.98px) {
-                  .ftco-how {
+                  .ftco-how .ftco-contact {
                     width: 50%;
                     float: left;
                     margin-bottom: 10px; } }
@@ -9823,7 +9823,7 @@ textarea.form-control {
               align-items: center;
               justify-content: center;
               /*background-image: url(../../img/bg/leaves-bg-2.png);*/
-              background-image: url(../../img/bg/leaves-bg-2.png);
+              /*background-image: url(../../img/bg/leaves-bg-2.png);*/
               background-size: cover;
 
           }
@@ -9847,7 +9847,7 @@ textarea.form-control {
               align-items: center;
               justify-content: center;
               /*background-image: url(../../img/bg/leaves-bg-2.png);*/
-              background-image: url(../../img/bg/leaves-bg-5.jpg);
+              /*background-image: url(../../img/bg/leaves-bg-5.jpg);*/
               background-size: cover;
 
           }
