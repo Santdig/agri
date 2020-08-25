@@ -9863,8 +9863,8 @@ textarea.form-control {
               /*background-color: rgba(152, 66, 211, 0.63);*/
           }
 
-          @media only screen and (min-device-width: 400px) {
+          /*@media only screen and (min-device-width: 400px) {
             .fcto-how {
                background-image: url(../../img/bg/leaves-bg-2.png);
             }
-          }
+          }*/
