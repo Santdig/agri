@@ -1,0 +1,21 @@
+.site-navbar {
+  border: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+
+  border-radius: 0px;
+  margin-bottom: 0px;
+
+  background: none;
+  /*position: absolute;*/
+  position: fixed;
+  /*position: relative;*/
+  /*position: static;*/
+  /*position: sticky;*/
+
+  /*top: 20px;*/
+
+  width: 100%;
+  z-index: 200;
+  background: #fff;
+}
