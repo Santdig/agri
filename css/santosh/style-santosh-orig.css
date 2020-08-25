@@ -9809,13 +9809,13 @@ textarea.form-control {
               .ftco-how {
                 padding: 6em 0; } }*/
 
-                /*@media (max-width: 1199.98px) {
+                @media (max-width: 1199.98px) {
                   .ftco-how .ftco-contact {
                     width: 50%;
                     float: left;
-                    margin-bottom: 10px; } }*/
+                    margin-bottom: 10px; } }
 
-          .fcto-how{
+          .ftco-how{
               position: relative;
               height: 100vh;
               width: 100%;
@@ -9823,12 +9823,12 @@ textarea.form-control {
               align-items: center;
               justify-content: center;
               /*background-image: url(../../img/bg/leaves-bg-2.png);*/
-              /*background-image: url(../../img/bg/leaves-bg-2.png);*/
+              background-image: url(../../img/bg/leaves-bg-2.png);
               background-size: cover;
 
           }
 
-          .fcto-how::before {
+          .ftco-how::before {
               content: "";
               position: absolute;
               top: 0px;
@@ -9839,7 +9839,7 @@ textarea.form-control {
               /*background-color: rgba(152, 66, 211, 0.63);*/
           }
 
-          .fcto-contact {
+          .ftco-contact {
               position: relative;
               height: 100vh;
               width: 100%;
@@ -9852,7 +9852,7 @@ textarea.form-control {
 
           }
 
-          .fcto-contact::before {
+          .ftco-contact::before {
               content: "";
               position: absolute;
               top: 0px;
@@ -9860,11 +9860,10 @@ textarea.form-control {
               bottom: 0px;
               left: 0px;
               background-color: rgba(255,255,255,0.50);
-              /*background-color: rgba(152, 66, 211, 0.63);*/
           }
 
           /*@media only screen and (min-device-width: 400px) {
-            .fcto-how {
+            .ftco-how {
                background-image: url(../../img/bg/leaves-bg-2.png);
             }
           }*/
