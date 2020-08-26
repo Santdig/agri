@@ -8846,7 +8846,7 @@ h1, h2, h3, h4, h5,
   transition: all 0.3s ease;
   width: 100%;
   padding: 30px;
-  margin-left: 50px;
+  /*margin-left: 50px;*/
   /*margin-bottom: 50px; */
   margin-bottom: 20px; }
   .services .icon {
